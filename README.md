@@ -10,11 +10,11 @@ menu = """
 
 => """
 
-saldo= 0
-limite= 500
-extrato= "" #string
-numero_saques = 0
-LIMITE_SAQUES = 3
+saldo= 0<br> 
+limite= 500<br> 
+extrato= "" #string<br> 
+numero_saques = 0<br> 
+LIMITE_SAQUES = 3<br> 
 
 while True:
 
