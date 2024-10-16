@@ -3,10 +3,10 @@ Criando um sistema bancário com Python
 
 menu = """
 
-[d] Depositar
-[s] Sacar
-[e] Extrato
-[q] Sair
+[d] Depositar<br> 
+[s] Sacar<br> 
+[e] Extrato<br> 
+[q] Sair<br> 
 
 => """
 
